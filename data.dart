@@ -1,13 +1,10 @@
 
-const availableCategories = [
-  Category(id: 'c1', title: 'Mathématiques', color: Colors.purple),
+const Categories = [
+  Category(id: 'c1', title: 'Math', color: Colors.purple),
   Category(id: 'c2', title: 'Physique', color: Colors.red),
-  Category(id: 'c3', title: 'Informatique', color: Colors.orange),
-  Category(id: 'c5', title: 'Français', color: Colors.blue),
-  Category(id: 'c8', title: 'Anglais', color: Colors.lightGreen),
 ];
 
-const dummySubjects = [
+const Subjects = [
   Subject(
     id: 'm1',
     categories: ['c1'],
