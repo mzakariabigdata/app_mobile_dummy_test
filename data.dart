@@ -1,7 +1,6 @@
 
 const Categories = [
   Category(id: 'c1', title: 'Math', color: Colors.purple),
-  Category(id: 'c2', title: 'Physique', color: Colors.red),
 ];
 
 const Subjects = [
