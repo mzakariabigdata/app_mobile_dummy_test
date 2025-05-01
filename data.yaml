@@ -1,6 +1,6 @@
 chapters:
   - title: "Calcule mental"
-    image: "https://cdn.pixabay.com/photo/2019/10/23/14/13/school-4571739_1280.jpg"
+    imageUrl: "https://cdn.pixabay.com/photo/2019/10/23/14/13/school-4571739_1280.jpg"
     summary: "test for dev"
     exercices:
       - "ex 1"
