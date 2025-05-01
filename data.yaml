@@ -4,4 +4,16 @@ chapters:
     exercices:
       - "ex 1"
       - "ex 2"
-
+    quizQuestions:
+      - text: "Combien font 2 + 2 ?"
+        answers:
+          - "4"
+          - "3"
+          - "5"
+          - "2"
+      - text: "Combien font 5 × 3 ?"
+        answers:
+          - "15"
+          - "10"
+          - "20"
+          - "25"
